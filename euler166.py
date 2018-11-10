@@ -1,4 +1,4 @@
-##autor : itamar biron
+##author : itamar biron
 
 def inRange(a):
     if(a>-1 and a<10):
